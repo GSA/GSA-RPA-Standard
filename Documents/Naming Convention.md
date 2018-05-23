@@ -8,7 +8,6 @@ ENT account id examples:
 ECOH1B-cfofascgbkbot
 ECOH1B-faspbsnwoffer
 
-## Email Group/Address
 
 ## Robot/Automated Process Name
 
