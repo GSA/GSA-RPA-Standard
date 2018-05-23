@@ -2,7 +2,7 @@
 
 ## System Account Name
 
-ENT account format (20 character limit): "ECOH1B-" + 3lettersserviceorganizationabbreviation + processname
+ENT account format (20 character limit): "ECOH1B-" + 3 characters of service organization abbreviation + process name
 
 ENT account id examples: 
 ECOH1B-cfofascgbkbot
@@ -12,7 +12,7 @@ ECOH1B-faspbsnwoffer
 
 ## Robot/Automated Process Name
 
-Format: serviceorganizationabbreviation_businessprocessname
+Format: 3 characters of service organization abbreviation + "_" + proces sname
 
 Examples: 
 CFO_FASChargeback
